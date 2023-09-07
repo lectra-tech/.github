@@ -1,1 +1,1 @@
-# .github
+# .github for Lectra-tech
