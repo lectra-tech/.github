@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/resources/Logo_Lectra-tagline_def_black-red.png" alt="LECTRA Logo" width="428" />
+  <img src="resources/Logo_Lectra-tagline_def_black-red.png" alt="LECTRA Logo" width="428" />
 </p>
 
 
@@ -11,7 +11,7 @@ As a major player in the fashion, automotive and furniture markets, Lectra contr
 The group offers industrial intelligence solutions - software, equipment, data and services - that facilitate the digital transformation of the companies it serves. In doing so, Lectra helps its customers push boundaries and unlock their potential. The group is proud to state that its 2,500 employees are driven by three core values: being open-minded thinkers, trusted partners and passionate innovators.​
 
 <p align="center">
-  <img src="profile/resources/lectra4.0.png" alt="LECTRA Logo" width="700" />
+  <img src="resources/lectra4.0.png" alt="LECTRA Logo" width="700" />
 </p>
 
 
